@@ -1,6 +1,6 @@
 # Teammate
 
-This is an application for managing employee user profiles
+This are applications for managing user profiles
 
 ### To run tests, execute
 

@@ -1,6 +1,6 @@
 
-const Userprofile ={}
-const Userprofile = {}
+const userProfile ={}
+const UserProfile = {}
 
 
 
